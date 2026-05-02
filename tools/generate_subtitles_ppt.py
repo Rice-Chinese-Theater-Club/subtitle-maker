@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-PPT Subtitle Generator for Mumble Jumble (乱民全讲)
+PPT Subtitle Generator
 Generates PowerPoint subtitles from translation JSON files
-Created by Claude Code
 
 Usage:
     python3 generate_subtitles_ppt.py scene_1-4_translation.json
