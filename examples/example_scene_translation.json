@@ -1,0 +1,63 @@
+{
+  "sceneId": "1-1",
+  "sceneName": "XXXX (XXXXXXXX)",
+  "totalLines": 8,
+  "translations": [
+    {
+      "index": 0,
+      "character": "A",
+      "characterPinyin": "A",
+      "original": "XXXXXXXX",
+      "translation": "XXXXXXXX XXXXXXXX"
+    },
+    {
+      "index": 1,
+      "character": "B",
+      "characterPinyin": "B",
+      "original": "XXXXXXXXXXXX",
+      "translation": "XXXXXXXX"
+    },
+    {
+      "index": 2,
+      "character": "A",
+      "characterPinyin": "A",
+      "original": "XXXXXXXXXXXXXXXX",
+      "translation": "XXXXXXXX XXXXXXXX XXXXXXXX"
+    },
+    {
+      "index": 3,
+      "character": "B",
+      "characterPinyin": "B",
+      "original": "XXXX",
+      "translation": "XXXX"
+    },
+    {
+      "index": 4,
+      "character": "C",
+      "characterPinyin": "C",
+      "original": "XXXXXXXXXXXXXXXXXX XXXXXX",
+      "translation": "XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX"
+    },
+    {
+      "index": 5,
+      "character": "A",
+      "characterPinyin": "A",
+      "original": "XXXXXXXX XXXX",
+      "translation": "XXXXXXXX XXXX XXXXXXXX"
+    },
+    {
+      "index": 6,
+      "character": "C",
+      "characterPinyin": "C",
+      "original": "XXXXXXXXXXXXXXXXXXXX",
+      "translation": "XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX XXXXXXXX"
+    },
+    {
+      "index": 7,
+      "character": "B",
+      "characterPinyin": "B",
+      "original": "XXXXXXXX",
+      "translation": "XXXXXXXX XXXX"
+    }
+  ]
+}
